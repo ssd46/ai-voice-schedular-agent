@@ -1,0 +1,6 @@
+__pycache__/
+.env
+token.pickle
+credentials.json
+bookings.json
+KMS/logs/
