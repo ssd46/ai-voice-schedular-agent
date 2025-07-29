@@ -86,7 +86,6 @@ GOOGLE_REDIRECT_URI=http://localhost:3000/auth/callback
 GROQ_API_KEY=<your_groq_api_key>
 
 # Cartesia
-CARTESIA_ENDPOINT=<your_cartesia_endpoint>
 CARTESIA_API_KEY=<your_cartesia_api_key>
 ```
 
