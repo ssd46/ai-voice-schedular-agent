@@ -119,6 +119,4 @@ Contributions are welcome! Please follow these steps:
 
 Please ensure your code follows the existing style and passes any tests.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
